@@ -1,5 +1,5 @@
 ---
-short_name: Ale
+short_name: ale
 name: Alejandra Ledesma
 position: Professional Cat Herder
 ---

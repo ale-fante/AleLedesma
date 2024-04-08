@@ -1,5 +1,5 @@
 ---
-short_name: Ben
+short_name: ben
 name: BenJamin Easton
 position: Teacher
 ---
